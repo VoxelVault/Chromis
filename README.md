@@ -82,4 +82,4 @@ Guidelines:
 ## 📜 License
 
 Chromis Client is licensed under the GNU General Public License v3 (GPLv3).
-See the ![LICENSE](license.md) file for full license text.
+See the ![LICENSE](LICENSE) file for full license text.
